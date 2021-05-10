@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    height: 100%;
+    background-color: #1976d2;
+}
+
+.text-white{
+    color: white !important;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.container{
+	display:flex;
+    align-items:center;
+    justify-content: center;
+    height: 100%;
+}
+
+a{
+    text-decoration:none;
+    color: orange;
+}
